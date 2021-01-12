@@ -1,0 +1,46 @@
+body{
+    font-family: Lucida Sans Typewriter, Arial, Helvetica, sans-serif;
+    background-color: #2b2725;
+    color: rgb(238, 229, 212);
+}
+h1{
+    color: rgb(235, 216, 176);
+    font-size: 65pt;
+    font-weight: bolder;
+    font-style: italic;   
+}
+h2{
+    font-size: 18pt;
+    max-width: 80vw;
+    color: rgb(197, 164, 122);
+
+}
+h3 {
+    color: rgb(173, 124, 84);
+}
+h4 {
+    color: rgb(173, 124, 84);
+main{
+    width: 80vw;
+    font-weight: lighter;
+}
+p{
+    margin-left:30px;
+
+}
+#intro > p{
+    margin-left: 0vw;
+
+}
+.yeet{
+    width: 10px;
+}
+#yeet{
+    background-color:  rgb(235, 216, 176);
+}
+#yeet1{
+    background-color: rgb(197, 164, 122);
+}
+#yeet2{
+    background-color:  rgb(173, 124, 84);
+}
